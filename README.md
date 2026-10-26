@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/raul4223/mexerica-releases/releases/latest"><b>⬇ Baixar a última versão</b></a>
+  <a href="https://github.com/raul4223/mexerica-releases/releases/latest"><img src="assets/logo.png" width="18" align="top" alt=""> <b>Baixar a última versão</b></a>
 </p>
 
 ---
